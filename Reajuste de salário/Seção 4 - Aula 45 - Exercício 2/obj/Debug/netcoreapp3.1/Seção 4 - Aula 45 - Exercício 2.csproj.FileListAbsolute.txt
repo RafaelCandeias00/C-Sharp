@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\bin\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 4\Seção 4 - Aula 45 - Exercício 2\Seção 4 - Aula 45 - Exercício 2\obj\Debug\netcoreapp3.1\Seção 4 - Aula 45 - Exercício 2.genruntimeconfig.cache
