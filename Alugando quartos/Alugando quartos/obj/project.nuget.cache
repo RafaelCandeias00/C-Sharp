@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I86M/PzvvRx9Dqdr0GCDkrR+my4N4LiywhrmDqjN3j11hlOSTlJFGO+HPeKaZfAjjtXakk9F3EwASpmUCGTsaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desenvolvimento\\GitHub\\C-Sharp\\Alugando quartos\\Alugando quartos\\Alugando quartos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

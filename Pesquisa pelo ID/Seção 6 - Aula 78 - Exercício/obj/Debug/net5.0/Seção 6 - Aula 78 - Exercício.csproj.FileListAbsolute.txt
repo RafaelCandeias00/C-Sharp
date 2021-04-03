@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\ref\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\ref\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 6\Seção 6 - Aula 78 - Exercício\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\ref\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\bin\Debug\net5.0\Seção 6 - Aula 78 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\ref\Seção 6 - Aula 78 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\Pesquisa pelo ID\Seção 6 - Aula 78 - Exercício\obj\Debug\net5.0\Seção 6 - Aula 78 - Exercício.genruntimeconfig.cache
