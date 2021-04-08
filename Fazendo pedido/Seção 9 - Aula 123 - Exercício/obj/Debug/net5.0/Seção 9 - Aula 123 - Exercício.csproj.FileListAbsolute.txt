@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\ref\Seção 9 - Aula 123 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\bin\Debug\net5.0\Seção 9 - Aula 123 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\ref\Seção 9 - Aula 123 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 9\Seção 9 - Aula 123 - Exercício\Seção 9 - Aula 123 - Exercício\obj\Debug\net5.0\Seção 9 - Aula 123 - Exercício.genruntimeconfig.cache
