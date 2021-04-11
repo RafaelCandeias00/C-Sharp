@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+yjRx83UN8CmDYBuc7LZ7rkul8/AyvYw0AeU0ZICpyl4B1xemhRkpYtFeXgFudJGy1gfQIA08EClbn9ymSIPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desenvolvimento\\Udemy - C#\\Seção 10\\Seção 10 - Aula 133 - Exercício\\Seção 10 - Aula 133 - Exercício\\Seção 10 - Aula 133 - Exercício.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
