@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\ref\Seção 10 - Aula 131 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\bin\Debug\net5.0\Seção 10 - Aula 131 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\ref\Seção 10 - Aula 131 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 10\Seção 10 - Aula 131 - Exercício\Seção 10 - Aula 131 - Exercício\obj\Debug\net5.0\Seção 10 - Aula 131 - Exercício.genruntimeconfig.cache
