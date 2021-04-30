@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\ref\Seção 15 - Aula 212 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\bin\Debug\net5.0\Seção 15 - Aula 212 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\ref\Seção 15 - Aula 212 - Exercício.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\Seção 15\Seção 15 - Aula 212 - Exercício\Seção 15 - Aula 212 - Exercício\obj\Debug\net5.0\Seção 15 - Aula 212 - Exercício.genruntimeconfig.cache
