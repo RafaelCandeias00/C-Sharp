@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.deps.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\ref\FunçãoRecursiva.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\bin\Debug\net5.0\FunçãoRecursiva.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\ref\FunçãoRecursiva.dll
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\Udemy - C#\FunçãoRecursiva\FunçãoRecursiva\obj\Debug\net5.0\FunçãoRecursiva.genruntimeconfig.cache
